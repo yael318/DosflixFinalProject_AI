@@ -1,0 +1,88 @@
+.search-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0; // רווח מלמעלה ולמטה
+    //z-index: 1001;
+   position: relative;
+    margin-top: 40px;
+
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid teal;
+  padding: 0.5rem;
+  width: 100%;
+  max-width: 400px;
+  direction: rtl;
+ // z-index: 1001;
+      //margin-top: 50;
+position: relative;
+    margin-top: 40px;
+}
+
+.search-icon {
+  color: teal;
+  margin-left: 0.5rem;
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 1rem;
+  flex: 1;
+  color: #004d4d;
+}
+.search-bar {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid teal;
+  padding: 0.3rem;  /* צמצם את ה-padding כדי להקטין את הגובה */
+  width: 100%;
+  max-width: 400px;
+  direction: rtl;
+  //z-index: 1001;
+  position: relative;
+    margin-top: 40px;
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 0.9rem; /* צמצם את גודל הגופן */
+  flex: 1;
+  color: #004d4d;
+}
+.search-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0; /* תוכל להגדיל את ה-margin כדי למקם את התיבה יותר נמוך */
+  z-index: 999;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid teal;
+  padding: 0.3rem;
+  width: 100%;
+  max-width: 400px;
+  direction: rtl;
+  //z-index: 1001;
+  //margin-top: 3rem; /* הוסף רווח למעלה כדי להוריד את התיבה */
+position: relative;
+    margin-top: 30px;
+}
+
+.search-input {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 0.9rem;
+  flex: 1;
+  color: #004d4d;
+ 
+}

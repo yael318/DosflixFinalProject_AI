@@ -1,0 +1,39 @@
+// .order-page {
+//   display: flex;
+//   gap: 2rem;
+//   padding: 1rem;
+//   direction: rtl; // כי עברית
+// }
+
+// .search-panel {
+//   width: 280px;
+//     background-color: rgba(0, 255, 255, 0.1); /* צבע טורקיז חצי שקוף */
+
+//   padding: 1rem;
+//   border-radius: 8px;
+//   box-shadow: 0 0 8px rgb(0 128 128 / 0.2);
+//   font-family: Arial, sans-serif;
+// }
+// .search-panel {
+//   background-color: rgba(0, 255, 255, 0.1); /* צבע טורקיז חצי שקוף */
+// }
+
+// .cards-grid {
+//   flex-grow: 1;
+//   display: grid;
+//   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+//   gap: 1.5rem;
+// }
+.order-page {
+  font-family: sans-serif;
+  direction: rtl;
+
+  .search-panel {
+    margin-bottom: 2rem;
+  }
+
+  .cards-grid {
+    display: grid;
+    gap: 1rem;
+  }
+}

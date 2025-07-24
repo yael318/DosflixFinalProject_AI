@@ -1,0 +1,24 @@
+.about{
+        direction: "rtl";
+        text-align: "right";
+        font-family: "'Noto Sans Hebrew', sans-serif";
+        line-height: 1.7;
+        padding: "1.5em 2em";
+        background-color: "#f8fafc";
+        border-radius: 12;
+        max-width: 800;
+        margin: "8vh auto 2em"; 
+        box-shadow: "0 0 10px rgba(0,0,0,0.1)";
+        color: "#3e3e3e";
+        h2{
+            font-size: "1.6em";
+            margin-bottom: "1em";
+        }
+        h3{
+            margin-top: "1.5em";
+            margin-bottom: "0.7em";
+        }
+        ul{
+            padding-right: "1.2em";
+        }
+}

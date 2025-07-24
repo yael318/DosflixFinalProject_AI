@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@react-oauth/google": "^0.12.2",
+    "react-toastify": "^11.0.5"
+  },
+  "devDependencies": {
+    "@types/react-toastify": "^4.0.2"
+  }
+}
