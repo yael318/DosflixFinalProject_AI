@@ -57,8 +57,7 @@ This project includes:
 cd client
 npm install
 npm start
-### 📦 Frontend
-```bash
+### 🧠 AI Server
 cd client
 npm install
 npm start
