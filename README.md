@@ -57,9 +57,8 @@ This project includes:
 cd client
 npm install
 npm start
-
-### 🧠 AI Server
+### 📦 Frontend
 ```bash
-cd ai
-pip install -r requirements.txt
-python app.py
+cd client
+npm install
+npm start
