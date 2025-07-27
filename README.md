@@ -57,7 +57,8 @@ This project includes:
 cd client
 npm install
 npm start
-### AI
+
+### 🧠 AI Server
 ```bash
 cd ai
 pip install -r requirements.txt
